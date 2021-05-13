@@ -1,4 +1,4 @@
-# A collection of my side/pet projects and code snippets
+# A collection of my side/pet projects and prototypes
 
 *Kaggle Projects* [#1](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/kaggleProjects)
 ----------------------------------------------------------------------------------------------------------------------------
