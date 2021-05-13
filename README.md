@@ -2,7 +2,7 @@
 
 
 
-*KaggleProjects* [#1](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/KaggleProjects)
+*Kaggle Projects* [#1](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/kaggleProjects)
 ----------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -15,3 +15,9 @@ Python script to fetch all homebrew packages via GET https://formulae.brew.sh/ap
 Written in Python 2.7. Last tested in Python 3.6.3.
 
 ----------------------------------------------------------------------------------------------------------------------------
+
+*Connect4* [#3](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/connect4)
+----------------------------------------------------------------------------------------------------------------------------
+
+Connect4 game in python, incorporates an "Intelligent Agent" that makes use of Minimax with Alpha beta pruning algorithms to oppose and possibly prevent the user from winning. For more detail refer to the documentation.pdf under https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/connect4
+
