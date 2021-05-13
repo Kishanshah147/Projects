@@ -23,7 +23,7 @@ Connect4 game in python, incorporates an "Intelligent Agent" that makes use of M
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-*Connect4* [#4](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/othello)
+*Othello* [#4](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/othello)
 ----------------------------------------------------------------------------------------------------------------------------
 
 Othello game in python, using Minimax as well as alpha beta pruning. Documentation under https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/othello
