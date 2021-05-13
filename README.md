@@ -1,9 +1,5 @@
 # A collection of my side/pet projects and code snippets
 
-
-
-
-
 [#1](https://github.com/facebook/react/wiki/Sites-Using-React)
 
 ## json-to-csv
