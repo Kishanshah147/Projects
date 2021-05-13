@@ -1,2 +1,1 @@
-# code_snippets
-Contains code snippets to my pet-projects
+# A collection of my side/pet projects
