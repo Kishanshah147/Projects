@@ -1,4 +1,4 @@
-# A collection of my side/pet projects and code snippets
+# A collection of my side/pet projects
 
 
 
