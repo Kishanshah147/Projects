@@ -1,6 +1,10 @@
 # A collection of my side/pet projects and code snippets
 
+<<<<<<< HEAD
 [#1](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/json-to-csv)
+=======
+[#1](https://github.com/facebook/react/wiki/Sites-Using-React)
+>>>>>>> 2a24e7cc3e1b5fd6253aefe2fddc7c5c8c27f441
 
 ## json-to-csv
 
