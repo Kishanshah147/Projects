@@ -31,7 +31,7 @@ Othello game in python, using Minimax as well as alpha beta pruning. Documentati
 [AWS Lex Lambda Bot](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/aws-lex-lambda-bot)
 ----------------------------------------------------------------------------------------------------------------------------
 
-Interactive prototype using AWS' Conversational AI service Lex and Lambda to serve as fulfillment handlers to the chatbot. 
+Interactive prototype using AWS' Conversational AI service Lex and Lambda functions (in node.js) to serve as fulfillment handlers to the chatbot. 
 
 References: https://docs.aws.amazon.com/lambda/latest/dg/services-lex.html
 https://docs.aws.amazon.com/lex/latest/dg/using-lambda.html
