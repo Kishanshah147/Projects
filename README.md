@@ -1,4 +1,4 @@
-# A collection of my side/pet projects and prototypes
+# A collection of my pet projects and prototypes
 
 [AWS Lex Lambda Bot](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/aws-lex-lambda-bot)
 ----------------------------------------------------------------------------------------------------------------------------
