@@ -1,0 +1,48 @@
+{
+    "source": "(15a0e877-1f83-498b-bc9d-5d6e5ee8c501) API Gateway Endpoint request body",
+    "token": "TOKEN",
+    "team_id": "T01P4V9DWV7",
+    "api_app_id": "A01PAJJVDCK",
+    "event": {
+        "client_msg_id": "d4405b66-524e-4e9c-bcf6-81ad2d1868af",
+        "type": "message",
+        "text": "test",
+        "user": "U01P50240JV",
+        "ts": "1614468302.000200",
+        "team": "T01P4V9DWV7",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "08V7A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a test message"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ], 
+        "channel": "C01NBHNJGCX",
+        "event_ts": "1614468302.000200",
+        "channel_type": "channel"
+    },
+    "type": "event_callback",
+    "event_id": "Ev01P64BEQ23",
+    "event_time": 1614468302,
+    "authorizations": [
+        {
+            "enterprise_id": null,
+            "team_id": "T01P4V9DWV7",
+            "user_id": "U01P50240JV",
+            "is_bot": false,
+            "is_enterprise_install": false
+        }
+    ],
+    "is_ext_shared_channel": false,
+    "event_context": "1-message-T01P4V9DWV7-C01NBHNJGCX"
+}
