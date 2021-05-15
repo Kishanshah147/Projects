@@ -13,7 +13,7 @@ https://docs.aws.amazon.com/lex/latest/dg/using-lambda.html
 [Connect4](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/connect4)
 ----------------------------------------------------------------------------------------------------------------------------
 
-Connect4 game in python, incorporates an "Intelligent Agent" that makes use of Minimax with Alpha beta pruning algorithms to oppose and possibly prevent the user from winning. For more detail refer to the documentation.pdf under https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/connect4
+Connect4 game in python, incorporates an "Intelligent Agent" that makes use of Minimax with Alpha beta pruning algorithms to oppose and possibly prevent the user from winning. For more detail refer to the documentation.pdf under https://github.com/Kishanshah147/Projects/blob/master/connect4/documentation.pdf
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Written in Python 2.7. Last tested in Python 3.6.3.
 [Othello](https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/othello)
 ----------------------------------------------------------------------------------------------------------------------------
 
-Othello game in python, using Minimax as well as alpha beta pruning. Documentation under https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/othello
+Othello game in python, using Minimax as well as alpha beta pruning. Documentation under https://github.com/Kishanshah147/Projects-codeSnippets/tree/main/othello/documentation.pdf
 
 ----------------------------------------------------------------------------------------------------------------------------
 
