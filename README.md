@@ -41,7 +41,6 @@ Othello game in python, using Minimax as well as alpha beta pruning. Documentati
 Serverless Slackbot to programmatically  fulfill operations
 
 **Environment:**
--------------
 
 Slack Events API to receive/ trigger message events: https://api.slack.com/apis/connections/events-api#receiving_events, https://api.slack.com/events/message
 Slack API or  incoming hook to POST message back to the channel:
@@ -59,7 +58,6 @@ https://aws.amazon.com/lambda
 **Note**: Add your own credentails and endpoints to test. The API gateway endpoint and slack hook used in the lamdba_functions.py file are inactive, you're likely to recieve a 404 error in response. 
 
 **Integration Flow:**
--------------------
 
 ![ServerlessBot-Architecture](https://user-images.githubusercontent.com/31640015/117374368-e7542e00-ae81-11eb-8dbc-06e18cc1ff03.jpg)
 
