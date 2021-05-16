@@ -1,20 +1,5 @@
 # Automate_noteTaking
 
-Requirements:
-
-Commands for creating a note
-
--- creates a new text file
--- adds it in the right directory
--- creates folders
--- open text files in sublime text
--- creates other filetypes (.py, .js, etc) 
--- navigates to the notes folder
--- check if the folder named Notes exists
--- if no folder named Notes exists, create Notes folder
--- navigates into Notes folder
--- check if file already exists
--- if file exists then open, else create and open file MyNote.txt
 
 Command Sequence:
 
@@ -27,3 +12,18 @@ Command Sequence:
 `n myNote`
 
 `f Notes`
+
+Requirements:
+
+- Command for creating a note
+- creates a new text file
+- adds it in the right directory
+- creates folders
+- open text files in sublime text
+- creates other filetypes (.py, .js, etc) 
+- navigates to the notes folder
+- check if the folder named Notes exists
+- if no folder named Notes exists, create Notes folder
+- navigates into Notes folder
+- check if file already exists
+- if file exists then open, else create and open file MyNote.txt
