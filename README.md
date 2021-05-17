@@ -3,8 +3,7 @@
 [Auto Text Generator](https://github.com/Kishanshah147/Projects/tree/master/auto-text-generator)
 ----------------------------------------------------------------------------------------------------------------------------
 
-Serverless text generation App using Open GPT model deployed on AWS Lambada
-
+Serverless text generation app using Open GPT model deployed on AWS Lambda
 Requirements/ dependencies: 
 
 torch
