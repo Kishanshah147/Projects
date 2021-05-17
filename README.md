@@ -5,8 +5,7 @@
 
 Serverless text generation App using Open GPT model deployed on AWS Lambada
 
-Requirements: 
-Function dependencies, for example:
+Requirements/dependencies: 
 
 torch
 transformers 
