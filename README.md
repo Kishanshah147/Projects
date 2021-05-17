@@ -1,5 +1,24 @@
 # A collection of my pet projects and prototypes
 
+[Auto Text Generator](https://github.com/Kishanshah147/Projects/tree/master/auto-text-generator)
+----------------------------------------------------------------------------------------------------------------------------
+
+Serverless text generation App using Open GPT model deployed on AWS Lambada
+
+Requirements: 
+Function dependencies, for example:
+
+torch
+transformers 
+OR 
+pytorch-transformers==1.1.0
+requests==2.20.0
+numpy==1.16.1
+
+OpenAI's GPT-2: https://openai.com/blog/better-language-models for a pre-trained model
+
+----------------------------------------------------------------------------------------------------------------------------
+
 [Automating Notes](https://github.com/Kishanshah147/Projects/tree/master/automating-notes)
 ----------------------------------------------------------------------------------------------------------------------------
 
