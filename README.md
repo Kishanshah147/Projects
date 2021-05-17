@@ -18,6 +18,7 @@ requests==2.20.0
 numpy==1.16.1
 
 OpenAI's GPT-2: https://openai.com/blog/better-language-models for a pre-trained model
+AWS Lambda Developer Guide: https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
 
 ----------------------------------------------------------------------------------------------------------------------------
 
