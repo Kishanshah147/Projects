@@ -3,8 +3,8 @@
 Serverless text generation app deployed om AWS lambda
 
 Requirements: 
-# Function dependencies, for example:
-# package>=version
+Function dependencies, for example:
+package>=version
 
 torch
 transformers 
