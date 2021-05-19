@@ -1,4 +1,4 @@
-# A collection of my pet projects and prototypes
+# A collection of pet projects and prototypes
 
 [Auto Text Generator](https://github.com/Kishanshah147/Projects/tree/master/auto-text-generator)
 ----------------------------------------------------------------------------------------------------------------------------
